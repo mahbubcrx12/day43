@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062646714122",
+    "project_id": "blog-cloud-firestore",
+    "storage_bucket": "blog-cloud-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062646714122:android:c851473b943986ace674f3",
+        "android_client_info": {
+          "package_name": "com.example.blog_cloud_fire_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062646714122-q2ksqvfl9qcaa9rsj566sok7gmqf5hrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZzMh4T1TZkYhms49pufsxWWUxStc5og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062646714122-q2ksqvfl9qcaa9rsj566sok7gmqf5hrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
